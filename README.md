@@ -1,9 +1,13 @@
-# CAEBV
+﻿# CAEBV
+
 
 ## Definition
  
 Wikipedia: https://en.wikipedia.org/wiki/Chronic_active_EBV_infection     
 **Chronic active EBV infection** or in its expanded form, **chronic active Epstein–Barr virus infection** is a very rare and often fatal complication of Epstein–Barr virus (EBV) infection that most often occurs in children or adolescents of Asian or South American lineage, although cases in Hispanics, Europeans and Africans have been reported.[1] It is classified as one of the Epstein-Barr virus-associated lymphoproliferative diseases (i.e. EBV+ LPD).[2]    
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3112034/     
+**The probability of survival at 5 years after disease onset** was 0.59 for patients with T-cell CAEBV and 0.87 for those with NK-cell CAEBV. In our study, at 5 years after the onset of disease, 66% of patients with T-cell CAEBV were alive and 73% of those with B-cell CAEBV were alive.
 
 
 ## Important papers
