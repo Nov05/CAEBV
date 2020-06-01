@@ -25,4 +25,4 @@ http://crbzz.paperopen.com/oa/DArticle.aspx?type=view&id=201902020
 **慢性活动性EBV 感染的诊疗进展**    
 《传染病信息》[ISSN:1007-8134/CN:11-3886/R]     
 期数: 2019年02期 页码: 175-179 栏目: 综　述 出版日期: 2019-05-15       
-<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-05-31%2019_04_09-Microsoft%20Edge.png?raw=true" width=700>
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-05-31%2019_04_09-Microsoft%20Edge.png?raw=true">
