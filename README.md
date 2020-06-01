@@ -35,7 +35,8 @@ Chronic active Epstein–Barr virus infection (CAEBV) is a prototype of the EBV-
 
 http://www.med.or.jp/english/pdf/2006_01/027_033.pdf    
 Post-Infectious Fatigue    
-Kazuhiro Kondo     
+Kazuhiro Kondo    
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-01%2010_24_14-027_033.pdf.png?raw=true">     
 
 ### Other posts
 
