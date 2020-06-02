@@ -38,9 +38,19 @@ http://www.med.or.jp/english/pdf/2006_01/027_033.pdf
 Kazuhiro Kondo    
 <img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-01%2010_24_14-027_033.pdf.png?raw=true">     
 
+https://www.sciencedaily.com/releases/2018/08/180820113117.htm     
+**STAT3 can be a therapeutic target for chronic active EBV infection, a fatal disorder**  
+August 20, 2018    
+Tokyo Medical and Dental University      
+Chronic active Epstein-Barr virus infection (CAEBV) is an inflammatory disorder with potential for tumor development. Here, unusual phosphorylation was observed on STAT3 in EBV-infected T- or NK-cells from patients with CAEBV. Researchers found that ruxolitinib, a drug that is currently used for treatment of myelofibrosis and polycythemia vera, could suppress the survival of these EBV-infected cells in a dose-dependent manner, and that STAT3 could be an important new target for treatment of CAEBV.
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/1346-8138.12322    
+**Epstein–Barr virus-associated T/natural killer-celllymphoproliferative disorders**
+Sanghui PARK, Young H. KO
+
 ### Other posts
 
 http://bjbryy.cn/Html/News/Articles/256.html      
-我的CAEBV（慢性活动性EB病毒感染）治疗过程——化疗及造血干细胞移植     
+**我的CAEBV（慢性活动性EB病毒感染）治疗过程——化疗及造血干细胞移植**        
   
 
