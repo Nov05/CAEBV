@@ -85,6 +85,13 @@ In adolescents and young adults, EBV infections often result in an IM. They get 
 
 <br>    
 
+**Defining the elusive boundaries of chronic active Epstein-Barr virus infection**   
+Sebastian Fernandez-Pol, Oscar Silva, and Yasodha Natkunam      
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058790/    
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/714oDNZqEGL._AC_SY741_.jpg?raw=true">    
+Spectrum of Epstein-Barr virus-positive (EBV+) T-cell and natural killer (NK)-cell lymphoproliferative disorders (LPD). Characteristic features of EBV+ T-cell and NK-cell LPD are shown. Hemophagocytic lymphohistiocytosis (HLH) in the bone marrow of a 3-year old Asian child with EBV infection. Core biopsy highlights HLH within bone marrow sinuses (A and B). Chronic active EBV infection causing an oral cavity lesion in an otherwise asymptomatic 14-year old Caucasian adolescent showing a polymorphous lymphoid infiltrate with EBV+ cells in an angiocentric distribution (C and D). Systemic EBV T-cell lymphoma in an otherwise asymptomatic 8-year old child presenting with persistent fever and chills. A CD56 stain highlights the atypical infiltrate and underscores the importance of testing for EBV in a patient with unexplained fevers (E and F). Aggressive NK leukemia replacing the bone marrow in a 42-year old man who presented with pancytopenia and massive hepatosplenomegaly. EBER in situ hybridization shows an exuberant EBV+ interstitial infiltrate in the bone marrow (G and H). Extranodal NK/T-cell lymphoma, nasal type causing an ulcerated palatal lesion in a 51-year old man from Guatemala. Prominent necrosis and angiodestruction characterize the atypical lymphoid infiltrate (I and J).    
+
+
 ## Other posts
 
 http://bjbryy.cn/Html/News/Articles/256.html      
