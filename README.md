@@ -102,14 +102,14 @@ http://bjbryy.cn/Html/News/Articles/256.html
 https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_ABX_Guide/540208/all/Epstein_Barr_Virus     
 **Johns Hopkins ABX Guide - Epstein-Barr Virus**     
 Paul Auwaerter, M.D.    
-<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_11_59-Epstein-Barr%20Virus%20_%20Johns%20Hopkins%20ABX%20Guide.png?raw=true" width=700>   
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_11_59-Epstein-Barr%20Virus%20_%20Johns%20Hopkins%20ABX%20Guide.png?raw=true" width=600>   
 
 <br>   
 
 http://www.weivd.com/article-596-1.html     
 EB病毒感染实验室诊断及临床应用专家共识解读（下）    
 笔者苏洛 2019-1-18    
-<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_52_12-EB_chinese%20experts.png?raw=true">    
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_52_12-EB_chinese%20experts.png?raw=true" width=600>    
 
 <br>   
 
