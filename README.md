@@ -120,6 +120,6 @@ https://labtestsonline.org.cn/tests/ebv
 EB病毒抗体   
 别称 EBV抗体; EBV VCA-IgM抗体; EBV VCA-IgG抗体; EBNA-IgG抗体; EA-D IgG抗体     
 正式名称 EB病毒壳抗原IgM抗体; EB病毒壳抗原IgG抗体; EB病毒核抗原IgG抗体; EB病毒早期D抗原IgG抗体; 嗜异性抗体(参见 传染性单核细胞增多症 )      
-<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_34_53-EB%E7%97%85%E6%AF%92%E6%8A%97%E4%BD%93%20_%20Lab%20Tests%20Online-CN.png?raw=true">   
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_34_53-EB%E7%97%85%E6%AF%92%E6%8A%97%E4%BD%93%20_%20Lab%20Tests%20Online-CN.png?raw=true" width=700>   
 
 
