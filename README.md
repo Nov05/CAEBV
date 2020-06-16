@@ -109,4 +109,6 @@ Paul Auwaerter, M.D.
 http://www.weivd.com/article-596-1.html     
 EB病毒感染实验室诊断及临床应用专家共识解读（下）    
 笔者苏洛 2019-1-18    
-<img src="">
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_52_12-EB%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AF%8A%E6%96%AD%E5%8F%8A%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86%E8%A7%A3%E8%AF%BB%EF%BC%88%E4%B8%8B%EF%BC%89_%E5%BE%AE%E8%AF%8A%E7%BD%91_%E6%A3%80%E9%AA%8C%E5%8C%BB%E5%AD%A6%E6%96%B0%E5%AA%92%E4%BD%93%20-%20WEIVD.COM.png">    
+
+
