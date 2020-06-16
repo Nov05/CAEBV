@@ -91,8 +91,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058790/
 <img src="https://github.com/Nov05/CAEBV/blob/master/images/714oDNZqEGL._AC_SY741_.jpg?raw=true">    
 Spectrum of Epstein-Barr virus-positive (EBV+) T-cell and natural killer (NK)-cell lymphoproliferative disorders (LPD). Characteristic features of EBV+ T-cell and NK-cell LPD are shown. Hemophagocytic lymphohistiocytosis (HLH) in the bone marrow of a 3-year old Asian child with EBV infection. Core biopsy highlights HLH within bone marrow sinuses (A and B). Chronic active EBV infection causing an oral cavity lesion in an otherwise asymptomatic 14-year old Caucasian adolescent showing a polymorphous lymphoid infiltrate with EBV+ cells in an angiocentric distribution (C and D). Systemic EBV T-cell lymphoma in an otherwise asymptomatic 8-year old child presenting with persistent fever and chills. A CD56 stain highlights the atypical infiltrate and underscores the importance of testing for EBV in a patient with unexplained fevers (E and F). Aggressive NK leukemia replacing the bone marrow in a 42-year old man who presented with pancytopenia and massive hepatosplenomegaly. EBER in situ hybridization shows an exuberant EBV+ interstitial infiltrate in the bone marrow (G and H). Extranodal NK/T-cell lymphoma, nasal type causing an ulcerated palatal lesion in a 51-year old man from Guatemala. Prominent necrosis and angiodestruction characterize the atypical lymphoid infiltrate (I and J).    
 
+<br>
 
 ## Other posts
+
+<br> 
 
 http://bjbryy.cn/Html/News/Articles/256.html      
 **我的CAEBV（慢性活动性EB病毒感染）治疗过程——化疗及造血干细胞移植**        
@@ -113,6 +116,10 @@ EB病毒感染实验室诊断及临床应用专家共识解读（下）
 
 <br>   
 
-
+https://labtestsonline.org.cn/tests/ebv   
+EB病毒抗体   
+别称 EBV抗体; EBV VCA-IgM抗体; EBV VCA-IgG抗体; EBNA-IgG抗体; EA-D IgG抗体     
+正式名称 EB病毒壳抗原IgM抗体; EB病毒壳抗原IgG抗体; EB病毒核抗原IgG抗体; EB病毒早期D抗原IgG抗体; 嗜异性抗体(参见 传染性单核细胞增多症 )      
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_34_53-EB%E7%97%85%E6%AF%92%E6%8A%97%E4%BD%93%20_%20Lab%20Tests%20Online-CN.png?raw=true">   
 
 
