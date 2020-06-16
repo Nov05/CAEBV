@@ -97,4 +97,16 @@ Spectrum of Epstein-Barr virus-positive (EBV+) T-cell and natural killer (NK)-ce
 http://bjbryy.cn/Html/News/Articles/256.html      
 **我的CAEBV（慢性活动性EB病毒感染）治疗过程——化疗及造血干细胞移植**        
   
+<br>
 
+https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_ABX_Guide/540208/all/Epstein_Barr_Virus     
+**Johns Hopkins ABX Guide - Epstein-Barr Virus**     
+Paul Auwaerter, M.D.    
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-06-15%2018_11_59-Epstein-Barr%20Virus%20_%20Johns%20Hopkins%20ABX%20Guide.png?raw=true">   
+
+<br>   
+
+http://www.weivd.com/article-596-1.html     
+EB病毒感染实验室诊断及临床应用专家共识解读（下）    
+笔者苏洛 2019-1-18    
+<img src="">
