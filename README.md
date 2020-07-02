@@ -52,14 +52,14 @@ Chronic active Epstein–Barr virus infection (CAEBV) is a prototype of the EBV-
 
 <br>
 
-https://ashpublications.org/bloodadvances/article/4/13/2918/461171/Nationwide-survey-of-systemic-chronic-active-EBV    
-LYMPHOID NEOPLASIA| JUNE 29, 2020     
+https://ashpublications.org/bloodadvances/article/4/13/2918/461171/Nationwide-survey-of-systemic-chronic-active-EBV LYMPHOID NEOPLASIA| JUNE 29, 2020       
 **Nationwide survey of systemic chronic active EBV infection in Japan in accordance with the new WHO classification**    
 https://doi.org/10.1182/bloodadvances.2020001451     
 Key Points:   
 1. Childhood- and elderly-onset sCAEBV, T- and NK-cell type, may be different disorders.   
-2. Chemotherapy is currently insufficient to resolve disease activity and eradicate infected cells of sCAEBV.   
-  
+2. Chemotherapy is currently insufficient to resolve disease activity and eradicate infected cells of sCAEBV.    
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/advancesadv2020001451absf1.png?raw=true" width=500>    
+
 
 <br>    
 
