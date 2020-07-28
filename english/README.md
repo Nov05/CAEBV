@@ -6,9 +6,28 @@ Chronic active Epstein-Barr virus infection of T- and NK-cell type, systemic for
 
 <img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-07-24%2015_52_46-Chronic%20active%20Epstein%E2%80%90Barr%20virus%20infection_%20A%20heterogeneous%20entity%20requiring%20a%20.png?raw=true" width=700>    
 
-<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-07-24%2018_04_14-Chronic%20active%20Epstein%E2%80%90Barr%20virus%20infection_%20A%20heterogeneous%20entity%20requiring%20a%20.png?raw=true" width=500>  
+<img src="https://github.com/Nov05/CAEBV/blob/master/images/2020-07-24%2018_04_14-Chronic%20active%20Epstein%E2%80%90Barr%20virus%20infection_%20A%20heterogeneous%20entity%20requiring%20a%20.png?raw=true" width=600>  
 
 <br>    
+
+https://mecfsroadmap.altervista.org/    
+
+<br>
+
+**The Morphologic Features of Primary Epstein-Barr Virus Infection in the Gastrointestinal Tract**      
+An Approach to Correct Diagnosis   
+https://journals.lww.com/ajsp/fulltext/2019/09000/the_morphologic_features_of_primary_epstein_barr.11.aspx    
+
+<br>  
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058790/
+
+Chronic active EBV is characterized by EBV+ T- or NK-cell proliferations and includes systemic as well as cutaneous forms. Systemic CAEBV presents with fever, lymphadenopathy and splenomegaly, and typically develops in immunocompetent patients following primary EBV infection. The initial phase resembles an IM-like illness. These lymphoid proliferations may be polyclonal, oligoclonal or monoclonal, and have a propensity to evolve into a systemic EBV+ T- or NK-cell lymphoma. CAEBV most often occurs in children and adolescents without a history of immunodeficiency or autoimmunity. The clinical course and prognosis of CAEBV is highly variable: while some patients exhibit a protracted disease course, others experience a fulminant form of the disease accompanied by HLH.1–3,8–10
+
+Chronic active EBV of T- and NK-cell types have a strong ethnic predisposition, and are most frequent in East Asia and in indigenous populations of Central and South America.1,6–11 It is rare in Western and African populations.1,13 The etiology of CAEBV is unknown, although susceptibility is thought to result from defective cytotoxic T-cell or NK-cell activity against EBV-infected cells. In addition to a defective host immune response, EBV viral load is a key factor that impacts the severity of the disease.1,2 Rare CAEBV cases with EBV+ B-cell proliferations have also been reported in Asia and in the United States.2,13 Although CAEBV typically affects children and adolescents, rare cases of adult-onset CAEBV have been reported; these are associated with a worse prognosis.1,2
+
+<br>
+
 
 
 
